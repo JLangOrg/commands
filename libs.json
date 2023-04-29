@@ -1,3 +1,3 @@
 {
-   "jcore": {"py": "https://raw.githubusercontent.com/JLangOrg/jcore/main/jcore.py"}
+   "jcore": {"py": "https://raw.githubusercontent.com/JLangOrg/jcore/main/jcore.py", "js": "https://raw.githubusercontent.com/JLangOrg/jcore/main/jcore.js"}
 }
